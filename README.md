@@ -61,11 +61,12 @@ We plan to share the train codes soon!
 ### Citation
 Please cite the following paper if you feel this repository useful.
 ```bibtex
-@article{chang2022strpm,
-title={STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction},
-author={Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen},
-journal={arXiv preprint arXiv:2203.16084},
-year={2022}
+@inproceedings{chang2022strpm,
+  title={STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction},
+  author={Chang, Zheng and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13946--13955},
+  year={2022}
 }
 ```
 ### License
